@@ -1,7 +1,7 @@
 # Terminal To-Do List
 import os
 
-
+#siemka
 #Showing Current Tasks
 def showTasks(toDo):
         os.system('cls')
