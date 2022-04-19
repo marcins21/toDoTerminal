@@ -1,2 +1,2 @@
-# toDoTerminal
-ToDoList Terminal Edition
+# To-Do Terminal Aplication
+### Without Database
